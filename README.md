@@ -18,6 +18,8 @@ Dataset Collected From kaggle and official website.
 ________________________________________
 ## Dashboard
 
+![th](https://github.com/user-attachments/assets/8639f5ce-201d-4118-9825-5c248530e65e)
+
 ![Screenshot 2025-01-18 131423](https://github.com/user-attachments/assets/f750f1ec-89ab-4ccc-b6fb-7e70e3e323fb)
 
 ![Screenshot 2025-01-18 131600](https://github.com/user-attachments/assets/57c91b54-5db3-4fe9-aa12-54fd8cbf43f4)
