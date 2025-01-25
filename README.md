@@ -26,8 +26,6 @@ ________________________________________
 
 ![Screenshot 2025-01-18 131744](https://github.com/user-attachments/assets/a3bb57d4-8b25-4bc9-a114-17fe1286f66a)
 
-![Screenshot 2025-01-18 133502](https://github.com/user-attachments/assets/86818500-8076-4178-998c-adaa2433eb07)
-
 ________________________________________
 
 ## Tools and Approach
